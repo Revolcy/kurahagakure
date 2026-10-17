@@ -1,4 +1,4 @@
-# ROS 2 Turtlesim - Konohagakure Symbol Visualizer
+# ROS 2 Turtlesim - Konohagakure
 
 Repositori ini berisi implementasi ROS 2 Node berbasis C++ (`rclcpp`) untuk menggambar lambang **Konohagakure** pada simulator `turtlesim`. Program ini memanfaatkan layanan (*service*) ROS 2 untuk penjejakan titik koordinat yang presisi dan membentuk topologi logo secara akurat.
 
